@@ -1,6 +1,6 @@
 # 🧠 Semantic Search Web App
 
-![App Screenshot](Screenshot%202025-10-08%20at%201.09.48%20AM.png)
+![App Screenshot](app.png)
 
 ## 🌍 Overview
 This project is a **Semantic Search Web App** built with **Flutter and Dart**.  
